@@ -1,7 +1,7 @@
-package com.example.newsapp.Api
+package com.example.newsapp.DataLayer.Api
 
-import com.example.newsapp.Model.SourcesResponse.SourcesResponse
-import com.example.newsapp.Model.newsResponse.NewsResponse
+import com.example.newsapp.DataLayer.Api.Model.SourcesResponse.SourcesResponse
+import com.example.newsapp.DataLayer.Api.Model.newsResponse.NewsResponse
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Query

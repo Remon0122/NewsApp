@@ -1,4 +1,4 @@
-package com.example.newsapp.Api.interceptors
+package com.example.newsapp.DataLayer.Api.interceptors
 
 import okhttp3.Interceptor
 import okhttp3.Response

@@ -1,9 +1,9 @@
-package com.example.newsapp.NewsApp.Categories
+package com.example.newsapp.PresentionLayer.Categories
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.newsapp.Model.Category
+import com.example.newsapp.DataLayer.Api.Model.Category
 import com.example.newsapp.databinding.ItemCategoryBinding
 
 class CategoriesAdapter (val items : List<Category> = Category.getCategories(),

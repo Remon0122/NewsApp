@@ -1,4 +1,4 @@
-package com.example.newsapp.NewsApp.Settings
+package com.example.newsapp.PresentionLayer.Settings
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

@@ -1,11 +1,11 @@
-package com.example.newsapp.NewsApp.Categories
+package com.example.newsapp.PresentionLayer.Categories
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.example.newsapp.Model.Category
+import com.example.newsapp.DataLayer.Api.Model.Category
 import com.example.newsapp.databinding.FragmentCategoriesBinding
 
 class CategoriesFragment : Fragment() {
